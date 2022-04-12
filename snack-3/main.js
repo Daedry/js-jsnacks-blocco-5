@@ -9,7 +9,6 @@ function reverseString(string) {
 }
 
 console.log(reverseString('hello'));
-
 console.log(reverseString('ciliegia'));
 console.log(reverseString('roma'));
 
